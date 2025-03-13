@@ -25,6 +25,8 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_02.png" alt="página do painel do copilot">
 
 - Clique em "New agent".
+
+<img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_03.png" alt="página novo agente do copilot studio">
  
 - Dê um nome ao projeto e forneça uma breve descrição para definir seu propósito.
 
