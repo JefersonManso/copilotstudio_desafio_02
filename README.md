@@ -28,7 +28,8 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_03.png" alt="página novo agente do copilot studio">
  
-- Dê um nome ao projeto e forneça uma breve descrição para definir seu propósito.
+- Dê um nome ao projeto e forneça uma breve descrição para definir seu propósito, e coloque um ícone.
+<img src="" alt="página de nome e intrucoes do copilot studio">
 
 ### 3. Configurar o Fluxo de Conversa:
 ###  Definir Intenções:
