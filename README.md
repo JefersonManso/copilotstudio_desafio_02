@@ -33,7 +33,9 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 - Após todas as configurações essenciais clique em criar.
   
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_04.png" alt="página de nome e intrucoes do copilot studio">
-- Aparecerá esta nova tela com as intruções e descrições que foram criadas. Na parte de cima, dizendo o que você vai poder fazer com o seu agente.
+
+- Aparecerá esta nova tela dizendo o que você vai poder fazer com o seu agente e, na parte de baixo as intruções e descrições que foram criadas.
+
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_05.png" alt="página do novo agente do copilot studio">
 
 ### 3. Configurar o Fluxo de Conversa:
