@@ -23,7 +23,9 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 
 ### 2. Após a conta criada clique no ícone Agentes:
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_02.png" alt="página do painel do copilot">
-- Clique em "Criar" ou selecione um projeto existente para edição.
+
+- Clique em "New agent".
+ 
 - Dê um nome ao projeto e forneça uma breve descrição para definir seu propósito.
 
 ### 3. Configurar o Fluxo de Conversa:
