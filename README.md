@@ -21,7 +21,8 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 - Ou faça sua conta Grátis:
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_01.png" alt="Pádina inicial do Copilot Studio">
 
-### 2. Criar um Novo Projeto:
+### 2. Após a conta criada caira nesta tela:
+<img src="URL_da_Imagem" alt="Texto Alternativo">
 - Clique em "Criar" ou selecione um projeto existente para edição.
 - Dê um nome ao projeto e forneça uma breve descrição para definir seu propósito.
 
