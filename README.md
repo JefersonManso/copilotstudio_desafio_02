@@ -47,3 +47,6 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 ### 7. Publicar e Monitorar:
 - Publique o Copiloto para que ele possa ser acessado pelos usuários
 - Monitore métricas de uso e feedback para implementar melhorias contínuas.
+
+  ## Referências
+- [Aprenda sobre Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=DX-MVP-5003806)
