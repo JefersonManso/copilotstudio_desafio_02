@@ -18,8 +18,7 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 
 - Caso você ainda não tenha acesso, verifique se sua organização pode habilitar isso.
 
-- Ou crie sua conta Grátis:
-
+- Ou faça sua conta Grátis: 
   <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_01.png" alt="Pádina inicial do Copilot Studio">
 
 ### 2. Criar um Novo Projeto:
