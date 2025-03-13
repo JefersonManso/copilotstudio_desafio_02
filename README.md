@@ -31,6 +31,7 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 - Dê um nome ao projeto e forneça uma breve descrição para definir seu propósito, e coloque um ícone.
 
 - Após todas as configurações essenciais clique em criar.
+  
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_04.png" alt="página de nome e intrucoes do copilot studio">
 - Aparecerá esta nova tela com as intruções e descrições que foram criadas. Na parte de cima, dizendo o que você vai poder fazer com o seu agente.
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_05.png" alt="página do novo agente do copilot studio">
