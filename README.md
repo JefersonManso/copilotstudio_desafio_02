@@ -21,10 +21,10 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 - Ou faça sua conta Grátis:
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_01.png" alt="Página inicial do Copilot Studio">
 
-### 2. Após a conta criada clique no ícone Agentes:
+### 2. Após a conta criada aparecerá esta tela, clique no ícone Agentes:
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_02.png" alt="página do painel do copilot">
 
-- Clique em "New agent".
+- Clique em "New agent" para criar um agente em branco.
 
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_03.png" alt="página novo agente do copilot studio">
  
