@@ -18,6 +18,10 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 
 - Caso você ainda não tenha acesso, verifique se sua organização pode habilitar isso.
 
+- Ou crie sua conta Grátis:
+
+  <img src="" alt="Pádina inicial do Copilot Studio">
+
 ### 2. Criar um Novo Projeto:
 - Clique em "Criar" ou selecione um projeto existente para edição.
 - Dê um nome ao projeto e forneça uma breve descrição para definir seu propósito.
