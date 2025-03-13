@@ -33,7 +33,6 @@ Este é o desafio de número #2, onde os participantes terão que criar um Copil
 - Após todas as configurações essenciais clique em criar.
 <img src="https://github.com/JefersonManso/copilotstudio_desafio_02/blob/main/foto_04.png" alt="página de nome e intrucoes do copilot studio">
 
-- Após todas as configurações essenciais
 
 ### 3. Configurar o Fluxo de Conversa:
 ###  Definir Intenções:
